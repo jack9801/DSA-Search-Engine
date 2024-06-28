@@ -48,7 +48,7 @@ export default function index() {
 
                 <div className="w-[90vw] h-full bg-[#eaeaeaec] dark:bg-[#232327]  mx-auto rounded-md my-10 p-4 flex justify-start items-center flex-col gap-5 comfort">
                     <p>
-                        Welcome to <span className="monu">AlgoSearch</span>, the ultimate algorithmic problems search engine. Developed for the prestigious Algozenith Web Dev Hackathon, AlgoSearch is your go-to platform for finding the perfect DSA (Data Structures and Algorithms) or CP (Competitive Programming) problem.
+                        Welcome to <span className="monu">AlgoSearch</span>, the ultimate algorithmic problems search engine.
                     </p>
                     <p>
                         Our mission is to make your coding journey more efficient and enjoyable. Whether you're a beginner looking to sharpen your skills or a seasoned programmer in need of a challenge, AlgoSearch is here to help.
@@ -56,17 +56,6 @@ export default function index() {
                     <p>
 
                         With a simple keyword search, you can easily explore a vast collection of problems curated by industry experts. AlgoSearch leverages powerful algorithms and intelligent indexing techniques to deliver accurate and relevant results for your specific needs. We understand that time is precious, and our aim is to save you valuable hours spent on searching for the right problem.
-                    </p>
-                    <p>
-
-                        AlgoSearch owes its success to the invaluable guidance of mentors  <span className="text-blue-600 cursor-pointer"><a href="https://www.linkedin.com/in/acraider/" target="_blank">Vivek Gupta</a></span> and <span href="https://www.linkedin.com/in/prabaljainn/" target="_blank" className="text-blue-600 cursor-pointer"><a>Prabal Jain</a></span> . With their extensive knowledge and expertise, they have shaped AlgoSearch into an indispensable tool for every aspiring coder.
-                    </p>
-                    <p>
-
-                        Join the AlgoSearch community today and unlock a world of challenging and engaging algorithmic problems. Whether you're preparing for coding interviews, participating in programming competitions, or simply honing your problem-solving skills, AlgoSearch has got you covered.
-                    </p>
-                    <p>
-                        Embrace the power of algorithms and embark on an exciting problem-solving adventure with <span className="monu">AlgoSearch!</span>
                     </p>
                     <p>
                         Developer  <span className="text-blue-600 cursor-pointer"><a href="https://www.linkedin.com/in/shishupal-151652243/" target="_blank">Shishupal</a></span>
